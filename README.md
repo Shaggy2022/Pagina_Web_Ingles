@@ -1,2 +1,2 @@
-# P-gina_Web_Ingl-s
+# Pagina_Web_Ingles
 Es una Página Web creada para la Universidad

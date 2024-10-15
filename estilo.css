@@ -464,6 +464,40 @@ html{
     position: relative;
     bottom: 4px;
 }
+/* SECCION ARTICLE */
+.article{
+    background-color: #1e2326;
+    color: #fff;
+    padding: 50px 20px;
+}
+.article .contenido-seccion{
+    max-width: 1100px;
+    margin: auto;
+}
+.article h2{
+    font-size: 48px;
+    font-family: 'Righteous';
+    text-align: center;
+    padding: 20px 0;
+}
+.article .fila{
+    display: center;
+    justify-content: space-between;
+}
+.article .contenido-seccion h4{
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.article .contenido-seccion .body{
+    display: block;
+}
+.article .contenido-seccion p{
+    line-height: 25px;
+}
+.article .contenido-seccion .subtitulo{
+    line-height: 60px;
+    font-weight: bold;
+}
 /* SECCION PORTFOLIO */
 .portfolio{
     background-color: #252A2E;
@@ -694,6 +728,17 @@ footer .arriba{
     .curriculum .fila .derecha{
         margin-left: 20px;
     }
+
+    .article .fila{
+        display: block;
+    }
+    .article .fila .col{
+        width: 90%;
+    }
+    .article .fila .derecha{
+        width: 1000px;
+    }
+
 
     .portfolio .galeria{
         display: block;

@@ -498,6 +498,46 @@ html{
     line-height: 60px;
     font-weight: bold;
 }
+/* SECCION POSTCAST */
+.postcast{
+    background-color: #1e2326;
+    color: #fff;
+    padding: 50px 20px;
+}
+.postcast .contenido-seccion{
+    max-width: 1100px;
+    margin: auto;
+}
+.postcast h2{
+    font-size: 48px;
+    font-family: 'Righteous';
+    text-align: center;
+    padding: 20px 0;
+}
+.postcast .fila{
+    display: center;
+    justify-content: space-between;
+}
+.postcast .contenido-seccion h4{
+    margin-left: 370px;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.postcast .contenido-seccion .body{
+    display: block;
+}
+.postcast .contenido-seccion p{
+    line-height: 25px;
+}
+.postcast .contenido-seccion .subtitulo{
+    line-height: 60px;
+    font-weight: bold;
+}
+.postcast .contenido-seccion video{
+    margin-left: 100px;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
 /* SECCION PORTFOLIO */
 .portfolio{
     background-color: #252A2E;
